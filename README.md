@@ -20,12 +20,6 @@ Projeto 100% responsivo!
 
 
 
-# :hammer: Projeto em Execução
-
-
-
-
-
 # 📁 Acesso ao projeto
 
 ### Link da aplicação na Web: https://abelardojr0.github.io/Bikcraft/
